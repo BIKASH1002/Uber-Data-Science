@@ -37,7 +37,7 @@ The dataset contains 336 rows and 7 columns. Each row represents one hour of dat
 
 The dataset reflects user activity, requests made, trips completed and drivers logged in during different hours of the day over a span of days in September 2012.
 
-![Access the dataset]
+[Access the dataset](https://github.com/BIKASH1002/Uber-Data-Science/blob/c8af5820b24d80ff28876e5f1ba79b47ddde008c/uber_dataset.csv)
 
 # Problem Statements
 
